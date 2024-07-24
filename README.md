@@ -1,4 +1,4 @@
-<h1>Mario Bros</h1>
+<h1>Tesla - DevClub</h1>
 <h2>Projeto desenvolvido com <a href="https://rodolfomori.com.br/devclub/">DevClub</a>
 <p>Pagina para prospecção de clientes com formulário de preenchimento de dados que são direcionados para o e-mail da empresa.</p>
 <h2>Tecnologias utilizadas:</h2>
